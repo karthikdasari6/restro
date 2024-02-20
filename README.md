@@ -1,4 +1,7 @@
-# restro
-restaurent application
+# Restaurant Menu Application
 
-onDemand Delivery
+Food Menu with Details
+
+This is tech food company which displays food items with price
+
+edited 
